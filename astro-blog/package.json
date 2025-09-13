@@ -1,0 +1,22 @@
+{
+  "name": "astro-blog",
+  "version": "1.0.0",
+  "description": "A simple blog built with Astro",
+  "main": "src/pages/index.astro",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "start": "astro start"
+  },
+  "keywords": [
+    "astro",
+    "blog",
+    "static-site"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "astro": "^1.0.0"
+  },
+  "devDependencies": {}
+}
